@@ -1,31 +1,54 @@
 <div align="center">
 
-# <span style="font-size:1.5em">⚡ TMI</span>
-
-## Technology Meets Intelligence
+# TMI - Technology Meets Intelligence
 
 **Student Development Platform**
 
 Building websites & services for large companies. Hosting tech competitions. Empowering students.
 
-![Platform](https://img.shields.io/badge/Platform-Student%20Development-4f46e5)
-![Services](https://img.shields.io/badge/Web%20Services-Enterprise-10b981)
-![Competitions](https://img.shields.io/badge/Tech%20Competitions-Active-f59e0b)
-![License](https://img.shields.io/badge/Open%20Source-Highlighted-3b82f6)
+![Developer coding](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+
+</div>
 
 ---
 
-### 🌐 What We Do
+## What We Do
 
-| | |
-|---|---|
-| 🏢 **Enterprise Web Services** | We build production-grade websites and digital services for large companies and organizations |
-| 🏆 **Tech Competitions** | We organize and host coding contests, hackathons, and innovation challenges for the next generation of builders |
-| 🎓 **Student Growth** | Real projects, real clients, real skills. Members learn by shipping |
+<div align="center">
+<img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" alt="Enterprise web services" width="480"/>
+</div>
+
+### Enterprise Web Services
+
+We build production-grade websites and digital services for large companies and organizations.
 
 ---
 
-### 🚀 Our Mission
+<div align="center">
+<img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif" alt="Tech competitions" width="480"/>
+</div>
+
+### Tech Competitions
+
+We organize and host coding contests, hackathons, and innovation challenges for the next generation of builders.
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Student growth" width="480"/>
+</div>
+
+### Student Growth
+
+Real projects, real clients, real skills. Members learn by shipping.
+
+---
+
+## Our Mission
+
+<div align="center">
+<img src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif" alt="Team debugging" width="480"/>
+</div>
 
 > **"Where student ambition meets real-world opportunity."**
 
@@ -33,7 +56,7 @@ We connect student talent with industry projects, turning classroom knowledge in
 
 ---
 
-### 🤝 Get Involved
+## Get Involved
 
 - **Students** - join our team, take on real client work, and win competitions
 - **Companies** - partner with TMI for high-quality web development services
@@ -41,16 +64,10 @@ We connect student talent with industry projects, turning classroom knowledge in
 
 ---
 
-### 📦 Our Repositories
-
-Explore the repositories in this organization to see what we are building.
-
----
-
 <div align="center">
 
 *Technology Meets Intelligence.*
 
-Made with 💜 by student developers.
+Made by student developers.
 
 </div>
