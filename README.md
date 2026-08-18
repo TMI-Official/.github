@@ -8,6 +8,8 @@
 
 We build websites and digital services for large companies, host tech competitions, and turn student talent into production software.
 
+[![Website](https://img.shields.io/badge/-tmiofficial.pages.dev-7c6fd0)](https://tmiofficial.pages.dev)
+
 <br/>
 
 <a href="#about"><img src="https://img.shields.io/badge/-About-7c6fd0" alt="About"/></a>
@@ -143,6 +145,10 @@ TMI is where student ambition meets real-world opportunity. As a Student Develop
 <img src="https://img.shields.io/badge/Platform-Student%20Development-7c6fd0" alt="Platform"/>
 <img src="https://img.shields.io/badge/Services-Enterprise-f5c518" alt="Services"/>
 <img src="https://img.shields.io/badge/Competitions-Active-7c6fd0" alt="Competitions"/>
+
+<br/>
+
+[Visit tmiofficial.pages.dev](https://tmiofficial.pages.dev)
 
 <br/>
 
